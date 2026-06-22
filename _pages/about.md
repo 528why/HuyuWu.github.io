@@ -12,7 +12,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am **Huyu Wu (伍胡宇)**, a first-year Master's student at the [Institute of Computing Technology, Chinese Academy of Sciences (ICT)](http://www.ict.cas.cn/). Currently, I am exploring the frontiers of **Agentic Search** as a **Search Algorithm Intern** at **Xiaohongshu (RED)**.
 
-My previous research background covers **Dataset Distillation** and **Time Series Analysis**, where I explored methods for efficient data representation and robust forecasting. I am always open to discussions and potential collaborations!
+My previous research background covers **Dataset Distillation** and **Multimodal Large Language Models**, where I explored methods for efficient data representation and modality bias. I am always open to discussions and potential collaborations!
 
 You can find my more research interests on <a href='https://scholar.google.com/citations?user=ehxjrc8AAAAJ'><img src="https://img.shields.io/badge/Citations-86-blue.svg?logo=google-scholar"></a>
 
@@ -101,7 +101,7 @@ Attained Gold Awards at China Zone Selections, the Asia Championships, Asia Open
 - *2022.06* Third Prize, 2th Youth Campus Volleyball League of Sichuan Province. 
 
 # 📚 Academic Services
-- **Conference Reviewer:** IJCNN 2024, ACL 2024, CaLM @NeurIPS 2024, ICLR 2025, AAAI 2026, ICME 2026
+- **Conference Reviewer:** IJCNN 2024, ACL 2024, CaLM @NeurIPS 2024, ICLR 2025, AAAI 2026, ICME 2026, ACMMM 2026
 
 - **Journal Reviewer:** IEEE Transactions on Neural Networks and Learning Systems(IEEE TNNLS), Journal of Supercomputing
 
